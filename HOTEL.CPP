@@ -3,7 +3,7 @@
 #include<fstream>
 #include<stdio.h>
 #include<stdlib.h>
-#include<dos.h>
+#include <chrono>
 
 using namespace std;
 
